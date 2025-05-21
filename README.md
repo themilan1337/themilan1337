@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://milan.su/](https://milan.su/)
 
-- 📫 How to reach me **milan@gorislavets.com**
+- 📫 Reach me at **milan@gorislavets.com**
 
-- ⚡ Fun fact **I think pugs are funny**
+- ⚡ Fun fact - **I think pugs are funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
