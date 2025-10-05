@@ -1,7 +1,6 @@
 <h1 align="center">Hello, Stranger.</h1>
 <p align="center">My name is Milan and im a ceo @ catops.io. Join us and try my AI DevOps Agents for better observability and blah blah blah....</p>
-<p align="center">It was nice to meet you.</p>
-###
+<p align="center">It was nice to meet you btw.</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
