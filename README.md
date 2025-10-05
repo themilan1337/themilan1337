@@ -2,6 +2,11 @@
 <p align="center">My name is Milan and im a ceo @ catops.io. Join us and try my AI DevOps Agents for better observability and blah blah blah....</p>
 <p align="center">It was nice to meet you btw.</p>
 
+<br>
+
+<h3 align="center">Full Stack Nuxt 4 and Laravel Engineer and Startups co-founder. Working in a team is my real passion.</h3>
+<h3 align="center">Currently working on my social skills and improving my AI skills (especially AI Agents).</h3>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
   <img width="12" />
