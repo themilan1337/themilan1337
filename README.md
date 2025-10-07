@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Stranger.</h1>
+<h1 align="center">Hello, Stranger!</h1>
 <p align="center">My name’s Milan, and I’m the CEO at <a href="https://catops.io/">catops.io</a>. Join us and try out my AI DevOps Agents for better observability and, you know, all that good stuff… okay, jokes aside, let me tell you more about me. I’m a Full Stack Nuxt 4 and Laravel engineer and a co-founder of startups. Working in a team is my real passion (because being a solo founder just isn’t for me personally). Right now, I’m working on my social skills and improving some AI skills - especially AI Agents. Looking forward to meeting new people :) Thanks for reading!</p>
 
 <div align="center">
