@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Stranger.</h1>
-<p align="center">My name is Milan and im a ceo @ catops.io. Join us and try my AI DevOps Agents for better observability and blah blah blah.... okay, jokes aside and lets talk more about me. Im a Full Stack Nuxt 4 and Laravel Engineer and Startups co-founder. Working in a team is my real passion (cuz being a solo founder is like not for me personally). Currently im a working on my social skills and improving some AI skills (especially AI Agents). Looking forward to meet new people :) thanks for reading.</p>
+<p align="center">My name’s Milan, and I’m the CEO at catops.io. Join us and try out my AI DevOps Agents for better observability and, you know, all that good stuff… okay, jokes aside, let me tell you more about me. I’m a Full Stack Nuxt 4 and Laravel engineer and a co-founder of startups. Working in a team is my real passion (because being a solo founder just isn’t for me personally). Right now, I’m working on my social skills and improving some AI skills—especially AI Agents. Looking forward to meeting new people :) Thanks for reading!</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
