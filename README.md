@@ -11,6 +11,8 @@ I love working with people and building things together - collaboration is what 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
@@ -38,8 +40,6 @@ I love working with people and building things together - collaboration is what 
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
 </div>
 
 ###
