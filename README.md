@@ -1,9 +1,3 @@
-<h1 align="center">Hello, Stranger!</h1>
-<p align="center">
-I'm a Full Stack Engineer working with Nuxt 4 and JS (Nitro.js), and I'm passionate about building products that solve real problems. Currently, I'm the CEO at catops.io, where we're developing AI DevOps Agents to make observability easier for development teams. <br><br>
-I love working with people and building things together - collaboration is what drives me. Right now, I'm focused on developing AI Agent systems and constantly improving how I work with others.
-</p>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
   <img width="12" />
